@@ -1,0 +1,76 @@
+#header {
+    margin-bottom: 20px;
+    padding-left: 10px;
+    padding: 10px 10px 10px 10px;
+    text-align: center;
+    font-size: 22px;  
+    font-family: Tahoma, Verdana, Segoe, sans-serif;
+    color: #f4e495;
+}
+
+#mni_link {
+    font-family: Tahoma, Verdana, Segoe, sans-serif;
+    color: white;
+    text-decoration: none;
+    font-style: italic;
+}
+
+img {
+    width: 150px;
+    height: 150px;
+    float: left;
+    margin-right: 10px;
+    border: 1px solid #f4e495;
+}
+
+#person {
+    padding: 0px 10px 10px 10px;
+}
+
+#name {
+    color: #f4e495;
+}
+
+#impressum {
+    clear: both;
+    margin-top: 20px;
+    padding-left: 10px;
+}
+
+body {
+    background: #2e2e2e;   
+    font-family: Tahoma, Verdana, Segoe, sans-serif;
+    color: white;
+}
+
+div {
+    border: 1px #f4e495;
+    border-style: ridge;
+    background: #707070;
+}
+
+h1 {
+    font-size: 22px;  
+    font-family: Tahoma, Verdana, Segoe, sans-serif;
+    color: #f4e495;
+    border-bottom-color: white;
+    border-bottom-style: solid;
+    border-bottom-width: 2px;
+    margin-right: 10px;
+}
+
+h2 {
+    font-size: 18px;
+    color: #f4e495;
+}
+
+h3 {
+    font-size: 16px;
+    color: #f4e495;
+    
+}
+
+a {
+    color: #f4e495; 
+    font-style: italic;
+}
